@@ -1,4 +1,4 @@
-package dayoon_lee_exercise2;
+package wordDuplicates;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Set;
